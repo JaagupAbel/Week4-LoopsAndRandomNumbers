@@ -1,0 +1,16 @@
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.exe
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.deps.json
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.json
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.pdb
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.AssemblyReference.cache
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.pdb
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.genruntimeconfig.cache

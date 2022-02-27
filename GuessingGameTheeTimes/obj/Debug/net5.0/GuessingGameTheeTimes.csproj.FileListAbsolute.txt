@@ -1,0 +1,15 @@
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\bin\Debug\net5.0\GuessingGameTheeTimes.exe
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\bin\Debug\net5.0\GuessingGameTheeTimes.deps.json
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\bin\Debug\net5.0\GuessingGameTheeTimes.runtimeconfig.json
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\bin\Debug\net5.0\GuessingGameTheeTimes.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\bin\Debug\net5.0\GuessingGameTheeTimes.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\bin\Debug\net5.0\ref\GuessingGameTheeTimes.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\bin\Debug\net5.0\GuessingGameTheeTimes.pdb
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\GuessingGameTheeTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\GuessingGameTheeTimes.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\GuessingGameTheeTimes.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\GuessingGameTheeTimes.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\GuessingGameTheeTimes.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\ref\GuessingGameTheeTimes.dll
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\GuessingGameTheeTimes.pdb
+C:\Users\jaagu\source\repos\LoopsAndRandomNumbers\GuessingGameTheeTimes\obj\Debug\net5.0\GuessingGameTheeTimes.genruntimeconfig.cache
